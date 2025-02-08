@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+     background-image: url("HeartsBG.jpg");
+     
+  color: #f3bbe7;
+  }
+
+TopSpace {
+  font-size:125px;
+  color: #FFFFFF;
+}
+Headers1 {
+  font-family:"cupcake";
+  font-size: 2em;
+  height: 80px;
+  text-align: center;
+  font-size:125px;
+}
+
+.TopText {
+  align-items: center;
+}
+
+.buttons {
+ background:url(./images/but.png)
+}
